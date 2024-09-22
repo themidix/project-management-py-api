@@ -56,7 +56,7 @@ Before running this project, ensure you have the following installed:
 
 2. Navigate to the project directory:
    ```
-   cd project-management-backend
+   cd project-management-py-api
    ```
 
 3. Create a virtual environment and activate it:
