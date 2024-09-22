@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directory
+.venv/
+env/
+venv/
+
+# Flask instance folder (if used)
+instance/
+
+# Environment variables
+.env
+*.env
+
+# Pytest cache
+.pytest_cache/
+
+# Database related files
+*.sqlite3
+*.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Migrations (Flask-Migrate)
+migrations/
+
+# Ignore IDE or editor specific files
+.vscode/
+.idea/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
